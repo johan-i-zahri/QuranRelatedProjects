@@ -174,7 +174,7 @@ public class ExtractVerseFromFreeMinds {
 			elements = cssSelector
 					.querySelectorAll("form[id = 'quickModForm']>div");
 			// System.out.println(elements.size());
-			Iterator iterator = elements.iterator();
+			Iterator<Node> iterator = elements.iterator();
 			Pattern p = Pattern
 					.compile("("
 							+ "(\\d{1,2})\\s*:\\s*(\\d{1,2})\\s*:\\s*(\\d{1,2}) (AM|PM)|"

@@ -1,5 +1,5 @@
 #ExtractVerseFromFreeMinds
-dir=test\\resources
+dir=D:\\mydoc\\j\\is\\quran\\research\\family\\thread\\hsbminhpiq
 threadLink=http://free-minds.org/forum/index.php?topic=9599777.
 formattedChapterVerseLink=http://corpus.quran.com/translation.jsp?chapter=%d&verse=%d
 formattedChapterVerseImageLink=http://www.everyayah.com/data/images_png/%d_%d.png
